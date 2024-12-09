@@ -3,7 +3,8 @@ Project Description
 This project aims to create a robust dataset for YOLO-based object detection and classification by leveraging IMDb's comprehensive collection of animated show thumbnails.
 
 ## Steps and Workflow
-###*Data Collection*
+*Data Collection*
+
 Use IMDb to retrieve images for animated shows.
 Manually select 500 images, 50 for each of the 10 shows want to use.
 Format the downloaded images as PNG or JPG files.
