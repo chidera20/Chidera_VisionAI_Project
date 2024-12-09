@@ -1,5 +1,5 @@
 # Chidera_VisionAI_Project
-Project Description
+
 This project aims to create a robust dataset for YOLO-based object detection and classification by leveraging IMDb's comprehensive collection of animated show thumbnails.
 
 ## Steps and Workflow
