@@ -24,7 +24,8 @@ Use Ultralytics: Roboflow to upload the dataset and label the images.
 *Class Annotation and Boundary Box*
 
 Label classes based on the show names to simplify the classification task.
-Use Roboflow's auto-annotate feature initially. This step helps with 20% of the boundary boxes but is imperfect, and cross-checking is needed.
+Use Roboflow's auto-annotate feature initially. 
+This step helps with 20% of the boundary boxes but is imperfect, and cross-checking is needed.
 For best results, manually correct and update annotations on all 500 images.
 
 *Train the YOLO model on the labeled dataset*
